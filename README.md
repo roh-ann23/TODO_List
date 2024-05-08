@@ -2,7 +2,8 @@
 Todo list app project using react hooks
 Here is the screenshot of the project.
 
-<img width="457" alt="image" src="https://user-images.githubusercontent.com/36126362/213862825-c5c342c6-6ba1-421a-9784-2848368feea4.png">
+![TODO_LIST](https://github.com/roh-ann23/TODO_List/assets/158121284/8da563d5-484c-4317-bdc7-9bcaa776ab41)
+
 
 <h3>Functionalities:</h3>
 <ol>
